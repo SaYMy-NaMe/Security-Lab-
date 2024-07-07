@@ -27,7 +27,7 @@ Below are the commands to test all the functions in the task.py file, including 
 2. **Encrypt Data Using AES (ECB Mode):**
 
    ```sh
-   python task.py aes_encrypt "Hello Shawon" keys.key ECB
+   python task.py aes_encrypt "Hello Ashraf" keys.key ECB
    ```
 
 3. **Decrypt Data Using AES (ECB Mode):**
@@ -40,7 +40,7 @@ Below are the commands to test all the functions in the task.py file, including 
 4. **Encrypt Data Using AES (CFB Mode):**
 
    ```sh
-   python task.py aes_encrypt "Hello Shawon" keys.key CFB
+   python task.py aes_encrypt "Hello Ashraf" keys.key CFB
    ```
 
 5. **Decrypt Data Using AES (CFB Mode):**
